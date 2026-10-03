@@ -2,6 +2,8 @@
 
 A simple Rock Paper Scissors console game built with C++.
 
+---------------------------------------------------
+
 🎯 Features
 
 🎮 Player vs Computer
@@ -12,6 +14,7 @@ A simple Rock Paper Scissors console game built with C++.
 🔄 Play again option
 ✅ Input validation
 
+ -----------------------------------------------------
 🧠 Concepts Used
 
 enum
@@ -26,6 +29,8 @@ string
 Type casting
 Basic game logic
 
+
+-------------------------------------------------- 
 🎮 How to Play
 
 Choose the number of rounds.
@@ -40,6 +45,7 @@ The computer makes a random choice, and the winner is determined according to th
 
 The score is displayed after every round, and you can choose to play again after the game ends.
 
+------------------------------------------------------------------
 🏆 Rules
 
 🪨 Rock beats Scissors
@@ -47,16 +53,19 @@ The score is displayed after every round, and you can choose to play again after
 ✂️ Scissors beats Paper
 🤝 Same choice → Draw
 
+------------------------------------------------------------------
+
 🛠️ Built With
 
 C++
+------------------------------------------------------------
 
 Libraries used:
 
 <iostream>
 <cstdlib>
 <ctime>
-
+------------------------------------------------------------
 
 
 📚 What I Practiced
