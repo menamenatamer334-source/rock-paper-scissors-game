@@ -17,16 +17,16 @@ A simple Rock Paper Scissors console game built with C++.
  -----------------------------------------------------
 🧠 Concepts Used
 
-enum
-Functions
-if / else
-for loops
-do while loops
-Variables and counters
-User input and output
-Random number generation
-string
-Type casting
+enum,
+Functions,
+if / else,
+for loops,
+do while loops,
+Variables and counters,
+User input and output,
+Random number generation,
+string,
+Type casting, 
 Basic game logic
 
 
@@ -48,10 +48,10 @@ The score is displayed after every round, and you can choose to play again after
 ------------------------------------------------------------------
 🏆 Rules
 
-🪨 Rock beats Scissors
-📄 Paper beats Rock
-✂️ Scissors beats Paper
-🤝 Same choice → Draw
+🪨 Rock beats Scissors--
+📄 Paper beats Rock--
+✂️ Scissors beats Paper--
+🤝 Same choice → Draw--
 
 ------------------------------------------------------------------
 
@@ -65,7 +65,8 @@ Libraries used:
 <iostream>
 <cstdlib>
 <ctime>
-------------------------------------------------------------
+
+-----------------------------------------------------------------
 
 
 📚 What I Practiced
