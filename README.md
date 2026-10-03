@@ -60,14 +60,6 @@ The score is displayed after every round, and you can choose to play again after
 C++
 ------------------------------------------------------------
 
-Libraries used:
-
-<iostream>
-<cstdlib>
-<ctime>
-
------------------------------------------------------------------
-
 
 📚 What I Practiced
 
