@@ -1,8 +1,8 @@
 # 🎮 Rock Paper Scissors — C++
 
-A simple **Rock Paper Scissors** console game built with **C++**.
+A simple Rock Paper Scissors console game built with C++.
 
-## 🎯 Features
+🎯 Features
 
 🎮 Player vs Computer
 🎲 Random computer choices
@@ -12,53 +12,53 @@ A simple **Rock Paper Scissors** console game built with **C++**.
 🔄 Play again option
 ✅ Input validation
 
-## 🧠 Concepts Used
+🧠 Concepts Used
 
 enum
--Functions
--if / else
--for loops
--do while loops
--Variables and counters
--User input and output
--Random number generation
--string
--Type casting
--Basic game logic
+Functions
+if / else
+for loops
+do while loops
+Variables and counters
+User input and output
+Random number generation
+string
+Type casting
+Basic game logic
 
-## 🎮 How to Play
+🎮 How to Play
 
 Choose the number of rounds.
 
 Choose your option:
 
-🪨 `0` → Rock
-📄 `1` → Paper
-✂️ `2` → Scissors
+🪨 0 → Rock
+📄 1 → Paper
+✂️ 2 → Scissors
 
 The computer makes a random choice, and the winner is determined according to the classic Rock Paper Scissors rules.
 
 The score is displayed after every round, and you can choose to play again after the game ends.
 
-## 🏆 Rules
+🏆 Rules
 
 🪨 Rock beats Scissors
 📄 Paper beats Rock
 ✂️ Scissors beats Paper
 🤝 Same choice → Draw
 
-## 🛠️ Built With
+🛠️ Built With
 
-**C++**
+C++
 
 Libraries used:
 
-`<iostream>`
-`<cstdlib>`
-`<ctime>`
+<iostream>
+<cstdlib>
+<ctime>
 
 
 
-## 📚 What I Practiced
+📚 What I Practiced
 
-This project helped me practice **functions, enums, loops, conditions, random numbers, input validation, and basic game logic** while building a complete small C++ game.
+This project helped me practice functions, enums, loops, conditions, random numbers, input validation, and basic game logic while building a complete small C++ game.
